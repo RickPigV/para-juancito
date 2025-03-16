@@ -1,0 +1,50 @@
+[
+    {
+        "Codigo": "MTB001",
+        "Marca": "Trek",
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/Trek_Bicycle_Company_Logo.svg",
+        "Tipo": "Mountain Bike",
+        "Modelo": "Marlin 7",
+        "Caracteristicas": "Suspensión completa, cuadro de aluminio, frenos de disco hidráulicos.",
+        "Imagen": "https://www.trekbikes.com/.imaging/resize/1x2/edgemax/filters:format(webp)/trek/2021/models/marlin-7_22.jpg",
+        "NumeroPuertas": 0,
+        "Motor": "No aplica",
+        "Combustible": "N/A",
+        "Categoria": "De montaña",
+        "Precio_Compra": 500,
+        "Precio_Venta": 650,
+        "Existencia": 15
+    },
+    {
+        "Codigo": "MTB002",
+        "Marca": "Specialized",
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Specialized_Logo.svg",
+        "Tipo": "Mountain Bike",
+        "Modelo": "Rockhopper",
+        "Caracteristicas": "Suspensión delantera, cuadro de acero, neumáticos anchos.",
+        "Imagen": "https://www.specialized.com/us/en/rockhopper/p/199057",
+        "NumeroPuertas": 0,
+        "Motor": "No aplica",
+        "Combustible": "N/A",
+        "Categoria": "De montaña",
+        "Precio_Compra": 450,
+        "Precio_Venta": 600,
+        "Existencia": 20
+    },
+    {
+        "Codigo": "MTB003",
+        "Marca": "Cannondale",
+        "Logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Cannondale_Logo.svg",
+        "Tipo": "Mountain Bike",
+        "Modelo": "Trail 8",
+        "Caracteristicas": "Cuadro de aluminio, suspensión delantera, frenos mecánicos.",
+        "Imagen": "https://www.cannondale.com/media/pdp/2021/Trail8.jpg",
+        "NumeroPuertas": 0,
+        "Motor": "No aplica",
+        "Combustible": "N/A",
+        "Categoria": "De montaña",
+        "Precio_Compra": 400,
+        "Precio_Venta": 550,
+        "Existencia": 30
+    }
+]
